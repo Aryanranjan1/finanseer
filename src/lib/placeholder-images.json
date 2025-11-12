@@ -1,0 +1,214 @@
+{
+  "placeholderImages": [
+    {
+      "id": "testimonial-1",
+      "description": "Portrait of a happy client.",
+      "imageUrl": "https://images.unsplash.com/photo-1533147670608-2a2f9775d3a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoYXBweSUyMHBlcnNvbnxlbnwwfHx8fDE3NjI4NDE1OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy person"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Portrait of a professional trader.",
+      "imageUrl": "https://images.unsplash.com/photo-1761195689615-9469b65dac01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjB0cmFkZXJ8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional trader"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Portrait of another satisfied customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1626863905121-3b0c0ed7b94c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzYXRpc2ZpZWQlMjBjdXN0b21lcnxlbnwwfHx8fDE3NjI4MzU2NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "satisfied customer"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "Avatar for Alex.",
+      "imageUrl": "https://images.unsplash.com/photo-1610631066894-62452ccb927c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2VvJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ceo portrait"
+    },
+    {
+      "id": "testimonial-5",
+      "description": "Avatar for Dan.",
+      "imageUrl": "https://images.unsplash.com/photo-1618622127587-3261f2b2f553?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjdG8lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI5MzgyNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cto portrait"
+    },
+    {
+      "id": "testimonial-6",
+      "description": "Avatar for Stephanie.",
+      "imageUrl": "https://images.unsplash.com/photo-1573868920655-68d3c5cc9cfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb28lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI5MzgyNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coo portrait"
+    },
+    {
+      "id": "educate-yourself",
+      "description": "A dark, rocky texture for the background of the 'Educate yourself' card.",
+      "imageUrl": "https://images.unsplash.com/photo-1757776808701-320a35a0d93e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkYXJrJTIwcm9ja3N8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dark rocks"
+    },
+    {
+      "id": "stay-informed",
+      "description": "A light-colored, textured rock formation for the 'Stay informed' card.",
+      "imageUrl": "https://images.unsplash.com/photo-1668422759478-255b1cfa0bec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGlnaHQlMjByb2Nrc3xlbnwwfHx8fDE3NjI5MzgyNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "light rocks"
+    },
+    {
+      "id": "community-main",
+      "description": "People at a trading expo event.",
+      "imageUrl": "https://images.unsplash.com/photo-1681152968214-9dad026ad188?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0cmFkaW5nJTIwZXZlbnR8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trading event"
+    },
+    {
+      "id": "online-activities",
+      "description": "A professional analyst presenting.",
+      "imageUrl": "https://images.unsplash.com/photo-1758876203326-016526a303a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBhbmFseXN0fGVufDB8fHx8MTc2MjkzODI0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional analyst"
+    },
+    {
+      "id": "register-step",
+      "description": "A secure online registration form.",
+      "imageUrl": "https://images.unsplash.com/photo-1584131688247-27fe529d6717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzZWN1cmUlMjBmb3JtfGVufDB8fHx8MTc2MjkzODI0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "secure form"
+    },
+    {
+      "id": "fund-step",
+      "description": "Various online payment options.",
+      "imageUrl": "https://images.unsplash.com/photo-1726066012714-261f6d8c07bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYXltZW50JTIwb3B0aW9uc3xlbnwwfHx8fDE3NjI5MzgyNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "payment options"
+    },
+    {
+      "id": "trade-step",
+      "description": "A dynamic financial trading chart.",
+      "imageUrl": "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmFkaW5nJTIwY2hhcnR8ZW58MHx8fHwxNzYyODYwOTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trading chart"
+    },
+    {
+      "id": "market-insights",
+      "description": "Trader analyzing charts on multiple screens.",
+      "imageUrl": "https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dHJhZGVyJTIwYW5hbHlzaXN8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trader analysis"
+    },
+    {
+      "id": "dark-mountain",
+      "description": "A dark, rocky mountain range.",
+      "imageUrl": "https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkYXJrJTIwbW91bnRhaW58ZW58MHx8fHwxNzYyODY3MzkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dark mountain"
+    },
+    {
+      "id": "green-rocks",
+      "description": "Abstract financial chart background.",
+      "imageUrl": "https://images.pexels.com/photos/6770775/pexels-photo-6770775.jpeg",
+      "imageHint": "financial chart"
+    },
+    {
+      "id": "fbs-cube",
+      "description": "A floating green translucent cube with FBS logo.",
+      "imageUrl": "https://images.unsplash.com/photo-1762861384753-06aa2b90cd89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxncmVlbiUyMGN1YmV8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green cube"
+    },
+    {
+      "id": "trader-1",
+      "description": "Avatar for a trader.",
+      "imageUrl": "https://images.unsplash.com/photo-1654910971111-836ac0c213ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dHJhZGVyJTIwYXZhdGFyfGVufDB8fHx8MTc2MjkzODI0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trader avatar"
+    },
+    {
+      "id": "trader-2",
+      "description": "Avatar for a trader.",
+      "imageUrl": "https://images.unsplash.com/photo-1743247299142-35028faf885d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmFkZXIlMjBhdmF0YXJ8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trader avatar"
+    },
+    {
+      "id": "trader-3",
+      "description": "Avatar for a trader.",
+      "imageUrl": "https://images.unsplash.com/photo-1743247299142-76ba40201c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0cmFkZXIlMjBhdmF0YXJ8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trader avatar"
+    },
+    {
+      "id": "trader-4",
+      "description": "Avatar for a trader.",
+      "imageUrl": "https://images.unsplash.com/photo-1585362063660-169116126f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0cmFkZXIlMjBhdmF0YXJ8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trader avatar"
+    },
+    {
+      "id": "trader-5",
+      "description": "Avatar for a trader.",
+      "imageUrl": "https://images.unsplash.com/photo-1665868727194-0e5eac640091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0cmFkZXIlMjBhdmF0YXJ8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trader avatar"
+    },
+    {
+      "id": "trader-6",
+      "description": "Avatar for a trader.",
+      "imageUrl": "https://images.unsplash.com/photo-1665868727194-0e5eac640091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0cmFkZXIlMjBhdmF0YXJ8ZW58MHx8fHwxNzYyOTM4MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trader avatar"
+    },
+    {
+      "id": "news-1",
+      "description": "Gold bars.",
+      "imageUrl": "https://images.unsplash.com/photo-1624365168968-e044f2fdf72f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxnb2xkJTIwYmFyc3xlbnwwfHx8fDE3NjI4ODAwMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold bars"
+    },
+    {
+      "id": "news-2",
+      "description": "Financial chart on a screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1745509267699-1b1db256601e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmaW5hbmNpYWwlMjBjaGFydHxlbnwwfHx8fDE3NjI5MzgyNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "financial chart"
+    },
+    {
+      "id": "news-3",
+      "description": "A Canadian flag and a Swiss flag.",
+      "imageUrl": "https://images.unsplash.com/photo-1515446644133-f1494185f77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxDYW5hZGElMjBTd2l0emVybGFuZHxlbnwwfHx8fDE3NjI5MzgyNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "Canada Switzerland"
+    },
+    {
+      "id": "cta-background",
+      "description": "Person walking with motion blur, representing focus on a journey.",
+      "imageUrl": "https://images.unsplash.com/photo-1603139439523-f8c95a33c548?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3YWxraW5nfGVufDB8fHx8MTc2Mjg0NzMwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person walking"
+    },
+    {
+      "id": "about-hero",
+      "description": "A diverse team collaborating in a modern office.",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "diverse team"
+    },
+    {
+      "id": "about-story",
+      "description": "Early-stage startup team working on laptops in a creative space.",
+      "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "startup team"
+    },
+    {
+      "id": "feature-ai",
+      "description": "Abstract visualization of a neural network or AI brain.",
+      "imageUrl": "https://images.unsplash.com/photo-1534723452862-4c874018d66d?q=80&w=1950&auto=format&fit=crop",
+      "imageHint": "AI network"
+    },
+    {
+      "id": "feature-portfolio",
+      "description": "A clean dashboard showing various financial charts and graphs.",
+      "imageUrl": "https://images.unsplash.com/photo-1642139268397-2ab39a3b98e8?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "financial dashboard"
+    },
+    {
+      "id": "feature-trends",
+      "description": "A world map with data visualizations and connection lines.",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "global data"
+    },
+    {
+      "id": "insights-1",
+      "description": "An abstract image representing artificial intelligence.",
+      "imageUrl": "https://images.unsplash.com/photo-1677756119517-756a188d2d94?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "insights-2",
+      "description": "A balanced scale or a set of diverse objects, symbolizing diversification.",
+      "imageUrl": "https://images.unsplash.com/photo-1529946179074-b7a77a02008a?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "balance diversity"
+    },
+    {
+      "id": "insights-3",
+      "description": "A globe with stock market tickers, representing macroeconomics.",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "global markets"
+    }
+  ]
+}
